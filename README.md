@@ -1,5 +1,6 @@
 # Mongoose-ESP32
-Minimal example for ESP32 microcontrollers in combination with mongoose wizard.
+Minimal example for ESP32 microcontrollers in combination with mongoose wizard.  
+I am using Arduino IDE and an ESP32-C3 controller.
 
 ## Config
 Provides a website over access point for configuring a local wifi network.  
