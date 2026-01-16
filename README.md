@@ -27,7 +27,7 @@ To modify the website for your project:
 3. Choose to `Create a new C/C++ project`
 4. Choose directory for new project (does not matter at this point) and select Arduino as target platform
 5. Select blank dashboard and finish
-6. Upload `/src/mongoose_wizard.json`
+6. Upload `Mongoose/src/mongoose_wizard.json`
 7. In Settings select Integration mode to `Integrate into...` and choose repo directory
    The wizard will overwrite your changes
 8. After modification `Generate C/C++ code`
